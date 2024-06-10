@@ -13,11 +13,11 @@ An interactive debugger
 # Why / Use - Case
 Anypoint Code Builder supports a variety of use cases across different stages of API and integration development:
 
-API Development: Together with other elements of Anypoint platform it enables the design, development, and deployment of APIs with a visual interface and code assistance, making it easier to build robust APIs quickly.
-Integration Projects: Facilitates the creation of complex integrations between different systems, applications, and data sources, streamlining the process with visual tools and pre-built connectors.
-Microservices: Supports the development of microservices architectures by allowing developers to create and manage small, modular services that can be deployed independently.
-Continuous Integration/Continuous Deployment (CI/CD): Integrates with CI/CD pipelines to automate the testing, deployment, and monitoring of Mule applications, enhancing DevOps practices.
-Data Transformation: Simplifies data mapping and transformation processes, allowing developers to efficiently convert data between different formats and systems.
+1. API Development: Together with other elements of Anypoint platform it enables the design, development, and deployment of APIs with a visual interface and code assistance, making it easier to build robust APIs quickly.
+2. Integration Projects: Facilitates the creation of complex integrations between different systems, applications, and data sources, streamlining the process with visual tools and pre-built connectors.
+3. Microservices: Supports the development of microservices architectures by allowing developers to create and manage small, modular services that can be deployed independently.
+4. Continuous Integration/Continuous Deployment (CI/CD): Integrates with CI/CD pipelines to automate the testing, deployment, and monitoring of Mule applications, enhancing DevOps practices.
+5. Data Transformation: Simplifies data mapping and transformation processes, allowing developers to efficiently convert data between different formats and systems.
 
 
 
