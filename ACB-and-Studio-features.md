@@ -4,11 +4,11 @@
 # What's the feature/ Definition / Description
 Anypoint Code Builder is an integrated development environment (IDE) that enables developers to design, build, test, and deploy APIs and integrations. One can work locally with Anypoint Code Builder for Desktop on Microsoft Visual Studio Code (VS Code) or from web browser with Anypoint Code Builder through Anypoint Platform.
 Some of the productivity features: 
-A browser-based IDE to allow you to work from anywhere
-A graphical user interface to define integration flows
-A central palette to quickly access commonly used commands
-Code snippets to promote best practices and accelerate development
-An interactive debugger
+- A browser-based IDE to allow you to work from anywhere
+- A graphical user interface to define integration flows
+- A central palette to quickly access commonly used commands
+- Code snippets to promote best practices and accelerate development
+- An interactive debugger
 
 # Why / Use - Case
 Anypoint Code Builder supports a variety of use cases across different stages of API and integration development:
