@@ -1,5 +1,5 @@
-# feature name
-Anypoint Code Builder 
+# Anypoint Code Builder 
+
 
 # What's the feature/ Definition / Description
 Anypoint Code Builder is an integrated development environment (IDE) that enables developers to design, build, test, and deploy APIs and integrations. One can work locally with Anypoint Code Builder for Desktop on Microsoft Visual Studio Code (VS Code) or from web browser with Anypoint Code Builder through Anypoint Platform.
@@ -21,8 +21,7 @@ Data Transformation: Simplifies data mapping and transformation processes, allow
 
 
 
-# feature name
-Anypoint Studio 
+# Anypoint Studio 
 
 # What's the feature/ Definition / Description
 Anypoint Studio is part of the Anypoint Platform, which provides a unified solution for API design, development, and management. MuleSoft's Anypoint Studio is an IDE (integration development environment) used for designing and testing Mule applications. It is an Eclipse-based IDE.
